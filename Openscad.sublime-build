@@ -1,0 +1,12 @@
+{
+	"shell_cmd": ["bash -c 'openscad $file &'"],
+
+
+"variants": [
+
+        {   "name": "Run",
+ 			"shell_cmd": "openscad -o $file_path/$file_base_name.stl $file"
+ 		}
+    ]
+
+}

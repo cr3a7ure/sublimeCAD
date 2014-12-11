@@ -2,12 +2,10 @@ sublimeCAD
 -----------
 
 Sublime Text 3 as OpenSCAD Editor
+
 The build file will let you "build" the model and "run" or export it to stl.
-
 The SideBar file will let you open openscad files with Openscad and stl with Netfabb (default), from the folder menu.
-
 The only thing you will need to do while working with scad files is Alt-Tab..
-
 
 This setup assumes you are using Linux.
 

@@ -17,7 +17,7 @@ Sublime plugins
 Install them through Sublime automatically, those links are for reference.
 
 1. Install the Package Installer
-  https://sublime.wbond.net/installation
+  https://packagecontrol.io/installation
 2. Install openscad plugin
   https://github.com/gorhgorh/Sublime-OpenScad
 3. Install SideBarEnhancements
